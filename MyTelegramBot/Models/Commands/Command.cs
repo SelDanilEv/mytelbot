@@ -1,7 +1,7 @@
 ﻿using Telegram.Bot.Types;
 using Telegram.Bot;
 
-namespace TelegramBotApp.Models.Commands
+namespace MyTelegramBot.Models.Commands
 {
     public abstract class Command
     {

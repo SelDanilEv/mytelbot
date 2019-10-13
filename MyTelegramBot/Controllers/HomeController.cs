@@ -4,14 +4,13 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace TelegramBotApp.Controllers
+namespace MyTelegramBot.Controllers
 {
     public class HomeController : Controller
     {
         public string Index()
         {
-            return "It's my telega bot D:";
+            return "Hi";
         }
-        
     }
 }

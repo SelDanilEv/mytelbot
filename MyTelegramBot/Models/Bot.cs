@@ -2,9 +2,9 @@
 using System.Threading.Tasks;
 
 using Telegram.Bot;
-using TelegramBotApp.Models.Commands;
+using MyTelegramBot.Models.Commands;
 
-namespace TelegramBotApp.Models
+namespace MyTelegramBot.Models
 {
     public static class Bot
     {
