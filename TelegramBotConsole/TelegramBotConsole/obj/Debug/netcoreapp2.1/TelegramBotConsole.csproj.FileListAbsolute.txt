@@ -1,0 +1,11 @@
+E:\Danil\MyProgram\TelegramBotConsole\TelegramBotConsole\bin\Debug\netcoreapp2.1\TelegramBotConsole.deps.json
+E:\Danil\MyProgram\TelegramBotConsole\TelegramBotConsole\bin\Debug\netcoreapp2.1\TelegramBotConsole.runtimeconfig.json
+E:\Danil\MyProgram\TelegramBotConsole\TelegramBotConsole\bin\Debug\netcoreapp2.1\TelegramBotConsole.runtimeconfig.dev.json
+E:\Danil\MyProgram\TelegramBotConsole\TelegramBotConsole\bin\Debug\netcoreapp2.1\TelegramBotConsole.dll
+E:\Danil\MyProgram\TelegramBotConsole\TelegramBotConsole\obj\Debug\netcoreapp2.1\TelegramBotConsole.csprojAssemblyReference.cache
+E:\Danil\MyProgram\TelegramBotConsole\TelegramBotConsole\obj\Debug\netcoreapp2.1\TelegramBotConsole.csproj.CoreCompileInputs.cache
+E:\Danil\MyProgram\TelegramBotConsole\TelegramBotConsole\obj\Debug\netcoreapp2.1\TelegramBotConsole.AssemblyInfoInputs.cache
+E:\Danil\MyProgram\TelegramBotConsole\TelegramBotConsole\obj\Debug\netcoreapp2.1\TelegramBotConsole.AssemblyInfo.cs
+E:\Danil\MyProgram\TelegramBotConsole\TelegramBotConsole\bin\Debug\netcoreapp2.1\TelegramBotConsole.pdb
+E:\Danil\MyProgram\TelegramBotConsole\TelegramBotConsole\obj\Debug\netcoreapp2.1\TelegramBotConsole.dll
+E:\Danil\MyProgram\TelegramBotConsole\TelegramBotConsole\obj\Debug\netcoreapp2.1\TelegramBotConsole.pdb
